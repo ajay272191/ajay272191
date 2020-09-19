@@ -19,7 +19,7 @@
 - 🔭 I’m currently working at [Dark Square](https://darksquare.ca/) as a Webdeveloper Intern.
 - 🌱 I’m currently learning more about SWE skills.
 - 💬 Ask me about tech related stuff.
-- 📫 How to reach me: [Linkdein - @ajay272191](https://www.linkedin.com/in/ajay272191).
+- 📫 How to reach me: [Linkedin - @ajay272191](https://www.linkedin.com/in/ajay272191).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to write Hindi Poetry.
 
